@@ -13,7 +13,7 @@ Features
 
 Technologies Used
 Spring Boot
-SQL (MySQL or PostgreSQL)
+PostgreSQL
 DBeaver (for database management)
 Java
 GitHub

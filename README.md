@@ -14,6 +14,10 @@ Features
 Technologies Used
 Spring Boot
 PostgreSQL
+Postman(Http Requests)
 DBeaver (for database management)
 Java
 GitHub
+<img width="1728" alt="Ekran Resmi 2025-02-28 15 45 31" src="https://github.com/user-attachments/assets/5e2b64c8-6b7c-49a1-8862-1318c30507d2" />
+<img width="1728" alt="Ekran Resmi 2025-02-28 15 50 52" src="https://github.com/user-attachments/assets/3e1f44b9-9078-4a4e-8e2a-f7560ff36437" />
+<img width="1728" alt="Ekran Resmi 2025-02-28 15 53 26" src="https://github.com/user-attachments/assets/ce1395e9-5956-413f-8d9e-464353f05ce8" />
